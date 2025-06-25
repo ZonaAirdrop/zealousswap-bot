@@ -1,0 +1,23 @@
+{
+  "name": "kasplex-automation-bot",
+  "version": "1.0.0",
+  "description": "Automated bot for swapping, providing liquidity, and farming on the Kasplex testnet.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "kasplex",
+    "zealousswap",
+    "crypto",
+    "bot",
+    "automation",
+    "airdrop"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "dotenv": "^16.3.1"
+  }
+}
