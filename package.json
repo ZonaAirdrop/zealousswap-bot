@@ -14,7 +14,7 @@
     "automation",
     "airdrop"
   ],
-  "author": "Your Name",
+  "author": "zonaairdrop",
   "license": "MIT",
   "dependencies": {
     "ethers": "^5.7.2",
